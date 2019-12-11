@@ -14,6 +14,10 @@ The enitre application is created using python and the data is stores in Postgre
 
 `HW4-DBSchema-josepr_&_sethia` contains the PSQL code to create the tables with restraints based on zip code reference.
 
+`XML Files` contains 5 XML files that contain some aspect of the CSV datasets and are merged with the PSQL to give varied results. Currenlty we only query Retail Store.XML and ZipLookup.XML but this can be easily scaled to all 5 XML datasets
+
+`XSD Files` contains the XML schema and descriptions
+
 ## Setup
 
 This relies on the [psycopg2](http://initd.org/psycopg/) module to connect to a Postgres database. You'll need to have that available when you run your python code.
