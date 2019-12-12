@@ -28,7 +28,8 @@ The application expects a user named `postgres` (with password `qwerty4321`) to 
 
 ## Running
 
-From the a terminal (or command prompt) in the `sethia-josepr/` directory, you can run the application suite by running:
+Running the HW4-DBSchema-josepr_&_sethia.sql loads the CSV files to the postgres tables and creates the XML files as well
+From the a terminal (or command prompt) in the `sethia-josepr-final/` directory, you can run the application suite by running:
 
 ``` 
 python application.py
