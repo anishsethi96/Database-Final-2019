@@ -28,7 +28,7 @@ The application expects a user named `postgres` (with password `qwerty4321`) to 
 
 ## Running
 
-Running the HW4-DBSchema-josepr_&_sethia.sql loads the CSV files to the postgres tables and creates the XML files as well
+Running the `HW4-DBSchema-josepr_&_sethia.sql` loads the CSV files to the postgres tables and creates the XML files as well
 
 This repo has the retail and ziplookup XML files that are used. The others were too large I didn't push them as well, running the above mentioned sql file creates all the XML files.
 
