@@ -1,4 +1,4 @@
-# Final Project Anish Sethi and Ronald Joseph
+# Project Anish Sethi and Ronald Joseph
 
 This project is based around the concept of people coming to certain cities in New York for the first time and wish to look for Restaurants in the area, their violations (see zipcode which have a lesser avg violations per restaurant than their choice), license details, address and so on. They can also look for vehicle repair shops and on choosing a shop they are given an option to look for restaurants in the area, they can also search for retail stores to shop in and see what stores have a delivery truck option. The Liqour search option lets the users look for places that have a valid liqour license and can specify which type of liqour they are looking for (Beer, Wine and so on).
 
